@@ -1,0 +1,11 @@
+{
+  "name": "js120",
+  "version": "1.0.0",
+  "description": "codes for JS120",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heejae Chang",
+  "license": "ISC"
+}
