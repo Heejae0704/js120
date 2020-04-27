@@ -12,4 +12,3 @@
 8. create a remote repository in github
 9. `git remote add origin [address]`
 10. `git push -u origin master`
-
