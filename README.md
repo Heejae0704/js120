@@ -12,3 +12,13 @@
 8. create a remote repository in github
 9. `git remote add origin [address]`
 10. `git push -u origin master`
+
+## Regarding ESLint configuration
+
+Probably because I am using `nvm`, I had to install babel-eslint locally to make `eslint` to work. You don't need to worry about `eslint-cli` which is also not working...
+
+```shell
+npm install babel-eslint --save-dev
+```
+
+Also you need to copy `eslintrc.yml` from JS101 folder and put it in the project root folder.
