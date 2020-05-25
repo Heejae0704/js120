@@ -41,3 +41,4 @@ CatPrototype.cry = function () {
 let silk = Object.create(CatPrototype).init("silk");
 silk.sleep();
 silk.cry();
+console.log(silk.name); // not your own property

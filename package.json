@@ -9,7 +9,9 @@
   "author": "Heejae Chang",
   "license": "ISC",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
